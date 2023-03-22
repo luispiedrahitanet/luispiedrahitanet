@@ -46,7 +46,6 @@
 
 </div>
 <hr />
-<br>
 
 ### 🌐 Pásate por algunas páginas montadas:
 - [Yuyuforyou](https://yuyuforyou.com) Tienda electrónica desarrollada en Prestashop.  
