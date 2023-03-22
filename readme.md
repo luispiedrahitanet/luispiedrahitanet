@@ -1,5 +1,4 @@
 <div>
- <h1 align="center">LUIS PIEDRAHITA</h1>
 
 <h2 align="center">Hola</h2>
 
