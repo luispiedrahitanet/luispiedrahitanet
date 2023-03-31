@@ -23,7 +23,7 @@
 
 <div align="center">
 
-<img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" title="SQL SERVER" alt="SQL SERVER" height="20" />
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" title="SQL SERVER" alt="SQL SERVER" height="20" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-plain.svg" title="MYSQL" alt="MYSQL" height="20" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" title="NODEJS" alt="NODEJS" height="20" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-plain.svg" title="PYTHON" alt="PYTHON" height="20" />
@@ -36,10 +36,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" height="20" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain.svg" title="CSS3" alt="CSS" height="20" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-plain.svg" title="BOOTSTRAP" alt="BOOTSTRAP" height="20" />
-<img src="https://seeklogo.com/images/E/excel-logo-974BFF9CB9-seeklogo.com.png" title="EXCEL" alt="EXCEL" height="20" />
-<img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" title="POWER BI" alt="POWER BI" height="20" />
-<img src="https://seeklogo.com/images/P/prestashop-logo-E97F09416E-seeklogo.com.png" title="PRESTASHOP" alt="PRESTASHOP" height="20" />
-<img src="https://seeklogo.com/images/S/shopify-logo-1C711BCDE4-seeklogo.com.png" title="SHOPIFY" alt="SHOPIFY" height="20" />
+<img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" title="EXCEL" alt="EXCEL" height="20" />
+<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" title="POWER BI" alt="POWER BI" height="20" />
+<img src="https://cdn-icons-png.flaticon.com/512/825/825533.png" title="PRESTASHOP" alt="PRESTASHOP" height="20" />
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968919.png" title="SHOPIFY" alt="SHOPIFY" height="20" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain.svg" title="WORDPRESS" alt="WORDPRESS" height="20" />
 
 
