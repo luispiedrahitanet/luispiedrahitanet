@@ -13,6 +13,7 @@
 - Jquery
 - HTML, CSS y Bootstrap
 - NodeJS y Python en sus bases para consumo de APIs en ambiente de consola, ver los repositorios
+- Typescript
 - SQL Server: Backups y Restauración de la base de datos, Procedimientos almacenados, consultas SQL.
 - MySQL
 - VBA Excel
@@ -31,6 +32,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg" title="GIT" alt="GIT" height="20" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/codeigniter/codeigniter-plain.svg" title="CodeIgniter" alt="CodeIgniter" height="20" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" height="20" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg" title="Typescript" alt="Typescript" height="20" />  
 <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" title="JSON" alt="JSON" height="20" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-plain.svg" title="JQUERY" alt="JQUERY" height="20" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" height="20" />
