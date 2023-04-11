@@ -12,7 +12,8 @@
 - Javascript ES6 junto con su conjunto para consumo de APIs como Fetch,Axios, asynk – await, json
 - Jquery
 - HTML, CSS y Bootstrap
-- NodeJS y Python en sus bases para consumo de APIs en ambiente de consola, ver los repositorios
+- - NodeJS, Express, Mongoose, Rest, JWT
+- Python en sus bases para consumo de APIs en ambiente de consola, ver los repositorios
 - Typescript
 - SQL Server: Backups y Restauración de la base de datos, Procedimientos almacenados, consultas SQL.
 - MySQL
