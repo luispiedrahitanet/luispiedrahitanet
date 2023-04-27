@@ -8,13 +8,13 @@
 
 ---
 ### 🛠️ Lenguajes y herramientas que utilizo:
-- PHP y el framework CodeIgniter
+- PHP, CodeIgniter
 - Javascript
 - Typescript
 - HTML, CSS, Bootstrap, Jquery
-- NodeJS, Express, Mongoose, Rest, JWT
+- NodeJS, Express, Mongoose, APIRest, JWT
 - Python en sus bases para consumo de APIs en ambiente de consola, ver los repositorios
-- SQL Server: Backups y Restauración de la base de datos, Procedimientos almacenados, consultas SQL.
+- SQL Server: Backups, Restauración de base de datos, Procedimientos almacenados, consultas SQL.
 - MySQL
 - VBA Excel
 - Power BI
