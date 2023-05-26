@@ -12,7 +12,7 @@
 - Javascript
 - Typescript
 - HTML, CSS, Bootstrap, Jquery
-- NodeJS, Express, Mongoose, APIRest, JWT
+- NodeJS, Express, Mongoose, APIRest Full, JWT
 - Python en sus bases para consumo de APIs en ambiente de consola, ver los repositorios
 - SQL Server: Backups, Restauración de base de datos, Procedimientos almacenados, consultas SQL.
 - MySQL
